@@ -1,28 +1,13 @@
-# Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners
-![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
-
-## Introduction
-Many large corporations already use 3D graphics to showcase their products. Learn how to build your own ThreeJS 3D product website and infuse it with the power of artificial intelligence! 
- 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Add custom color and file support.
-- Generate and use images through DALLE AI
-- Download the resulting t-shirt model image
-- Ensure responsiveness across all devices and improve your site's performance
-
-## Want to learn more? Check out Anderson Mancini's Course
-This video covers only a small part of what's included in [Anderson Mancini's Udemy Course](https://www.udemy.com/course/react-three-fiber-configurator/). Go check it out 🔥
+Make your own shirt
 
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
-# customizationShirt
+https://github.com/ofek2016/customizationShirt/assets/83374136/5eb74c39-bf52-4c32-ac72-f1501f5bef2e
+
+
+
+https://github.com/ofek2016/customizationShirt/assets/83374136/819dc327-0e71-4928-b731-0815d846e8d0
+
+
+
+https://github.com/ofek2016/customizationShirt/assets/83374136/12ad9047-e8dd-450c-8f45-3fb6769d7203
+
